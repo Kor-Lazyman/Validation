@@ -15,4 +15,3 @@ Deep Reinforcement Learning-based Inventory Optimization
 # Contact
 * Yosep Oh (yosepoh@hanyang.ac.kr)
 
-# Validation
